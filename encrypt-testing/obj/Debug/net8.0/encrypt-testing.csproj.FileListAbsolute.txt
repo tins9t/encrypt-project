@@ -1,0 +1,14 @@
+C:\Users\nhi_t\RiderProjects\encrypt-testing\encrypt-testing\bin\Debug\net8.0\encrypt-testing.exe
+C:\Users\nhi_t\RiderProjects\encrypt-testing\encrypt-testing\bin\Debug\net8.0\encrypt-testing.deps.json
+C:\Users\nhi_t\RiderProjects\encrypt-testing\encrypt-testing\bin\Debug\net8.0\encrypt-testing.runtimeconfig.json
+C:\Users\nhi_t\RiderProjects\encrypt-testing\encrypt-testing\bin\Debug\net8.0\encrypt-testing.dll
+C:\Users\nhi_t\RiderProjects\encrypt-testing\encrypt-testing\bin\Debug\net8.0\encrypt-testing.pdb
+C:\Users\nhi_t\RiderProjects\encrypt-testing\encrypt-testing\obj\Debug\net8.0\encrypt-testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhi_t\RiderProjects\encrypt-testing\encrypt-testing\obj\Debug\net8.0\encrypt-testing.AssemblyInfoInputs.cache
+C:\Users\nhi_t\RiderProjects\encrypt-testing\encrypt-testing\obj\Debug\net8.0\encrypt-testing.AssemblyInfo.cs
+C:\Users\nhi_t\RiderProjects\encrypt-testing\encrypt-testing\obj\Debug\net8.0\encrypt-testing.csproj.CoreCompileInputs.cache
+C:\Users\nhi_t\RiderProjects\encrypt-testing\encrypt-testing\obj\Debug\net8.0\encrypt-testing.dll
+C:\Users\nhi_t\RiderProjects\encrypt-testing\encrypt-testing\obj\Debug\net8.0\refint\encrypt-testing.dll
+C:\Users\nhi_t\RiderProjects\encrypt-testing\encrypt-testing\obj\Debug\net8.0\encrypt-testing.pdb
+C:\Users\nhi_t\RiderProjects\encrypt-testing\encrypt-testing\obj\Debug\net8.0\encrypt-testing.genruntimeconfig.cache
+C:\Users\nhi_t\RiderProjects\encrypt-testing\encrypt-testing\obj\Debug\net8.0\ref\encrypt-testing.dll
